@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lionel
 - 👀 I’m interested in Bioengineering, systems biology mechanistic modeling, data science and staying active!
-- 🌱 I’m currently learning Data Science and Programing techniques
+- 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on computational modeling on Biological systems
 - 📫 How to reach me ...
 
