@@ -32,10 +32,3 @@ pharmacology — that tooling is badly underbuilt.
 ## 📫 Reach me
 
 [LinkedIn](https://linkedin.com/in/kltukei) · [email](mailto:YOUR_EMAIL) · [Google Scholar](https://scholar.google.com/citations?user=0XDjfKkAAAAJ&hl=en)
-
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ara101&show_icons=true&hide_border=true&theme=transparent" height="165" alt="Lionel's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ara101&layout=compact&hide_border=true&theme=transparent" height="165" alt="Lionel's top languages" />
-</p>
