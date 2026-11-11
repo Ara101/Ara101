@@ -13,7 +13,7 @@ synthesis through mechanistic simulation to generative ligand design.
 - **Kinetic meta-analysis of Class A GPCR signaling.** Bayesian hierarchical (PyMC) and REML
   random-effects (metafor) pooling of rate constants across 57 studies, with heterogeneity
   quantification and simulation-based power analysis. Curated dataset and analysis code release with
-  the manuscript.
+  the manuscript. Code: [OXTR-GPCR-kinetics](https://github.com/Ara101/OXTR-GPCR-kinetics)
 - **Mechanistic ODE modeling of receptor signaling.** Mass-action models of OXTR-Gq membrane dynamics
   in Tellurium and SimBiology, global sensitivity analysis, identifiability triage, and model
   selection by AIC/BIC and likelihood ratio tests.
